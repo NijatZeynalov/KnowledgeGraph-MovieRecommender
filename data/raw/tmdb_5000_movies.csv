@@ -1,0 +1,11 @@
+id,title,keywords,genres,production_companies
+1,Toy Story,"[{'id': 931, 'name': 'toy'}, {'id': 1418, 'name': 'friendship'}]",Adventure|Animation|Children|Comedy|Fantasy,"[{'name': 'Pixar Animation Studios', 'id': 3}]"
+2,Jumanji,"[{'id': 931, 'name': 'board game'}, {'id': 1418, 'name': 'jungle'}]",Adventure|Children|Fantasy,"[{'name': 'TriStar Pictures', 'id': 559}]"
+3,Grumpier Old Men,"[{'id': 931, 'name': 'old man'}, {'id': 1418, 'name': 'fishing'}]",Comedy|Romance,"[{'name': 'Warner Bros.', 'id': 6194}]"
+4,Waiting to Exhale,"[{'id': 931, 'name': 'female friendship'}, {'id': 1418, 'name': 'romance'}]",Comedy|Drama|Romance,"[{'name': '20th Century Fox', 'id': 25}]"
+5,Father of the Bride Part II,"[{'id': 931, 'name': 'wedding'}, {'id': 1418, 'name': 'pregnancy'}]",Comedy,"[{'name': 'Touchstone Pictures', 'id': 919}]"
+6,Heat,"[{'id': 931, 'name': 'crime'}, {'id': 1418, 'name': 'heist'}]",Action|Crime|Thriller,"[{'name': 'Warner Bros.', 'id': 6194}]"
+7,Sabrina,"[{'id': 931, 'name': 'love'}, {'id': 1418, 'name': 'remake'}]",Comedy|Romance,"[{'name': 'Paramount Pictures', 'id': 4}]"
+8,Tom and Huck,"[{'id': 931, 'name': 'friendship'}, {'id': 1418, 'name': 'adventure'}]",Adventure|Children,"[{'name': 'Walt Disney Pictures', 'id': 2}]"
+9,Sudden Death,"[{'id': 931, 'name': 'terrorist'}, {'id': 1418, 'name': 'hostage'}]",Action,"[{'name': 'Universal Pictures', 'id': 33}]"
+10,GoldenEye,"[{'id': 931, 'name': 'spy'}, {'id': 1418, 'name': 'british secret service'}]",Action|Adventure|Thriller,"[{'name': 'United Artists', 'id': 60}]"

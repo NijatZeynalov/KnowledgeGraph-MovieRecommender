@@ -1,0 +1,62 @@
+@prefix ns1: <http://example.org/> .
+
+<http://example.org/movie/1> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Tim%20Allen>,
+        <http://example.org/actor/Tom%20Hanks> ;
+    ns1:crew <http://example.org/director/John%20Lasseter> ;
+    ns1:title "Toy Story" .
+
+<http://example.org/movie/10> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Pierce%20Brosnan>,
+        <http://example.org/actor/Sean%20Bean> ;
+    ns1:crew <http://example.org/director/Martin%20Campbell> ;
+    ns1:title "GoldenEye" .
+
+<http://example.org/movie/2> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Bonnie%20Hunt>,
+        <http://example.org/actor/Robin%20Williams> ;
+    ns1:crew <http://example.org/director/Joe%20Johnston> ;
+    ns1:title "Jumanji" .
+
+<http://example.org/movie/3> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Jack%20Lemmon>,
+        <http://example.org/actor/Walter%20Matthau> ;
+    ns1:crew <http://example.org/director/Howard%20Deutch> ;
+    ns1:title "Grumpier Old Men" .
+
+<http://example.org/movie/4> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Angela%20Bassett>,
+        <http://example.org/actor/Whitney%20Houston> ;
+    ns1:crew <http://example.org/director/Forest%20Whitaker> ;
+    ns1:title "Waiting to Exhale" .
+
+<http://example.org/movie/5> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Diane%20Keaton>,
+        <http://example.org/actor/Steve%20Martin> ;
+    ns1:crew <http://example.org/director/Charles%20Shyer> ;
+    ns1:title "Father of the Bride Part II" .
+
+<http://example.org/movie/6> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Al%20Pacino>,
+        <http://example.org/actor/Robert%20De%20Niro> ;
+    ns1:crew <http://example.org/director/Michael%20Mann> ;
+    ns1:title "Heat" .
+
+<http://example.org/movie/7> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Harrison%20Ford>,
+        <http://example.org/actor/Julia%20Ormond> ;
+    ns1:crew <http://example.org/director/Sydney%20Pollack> ;
+    ns1:title "Sabrina" .
+
+<http://example.org/movie/8> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Brad%20Renfro>,
+        <http://example.org/actor/Jonathan%20Taylor%20Thomas> ;
+    ns1:crew <http://example.org/director/Peter%20Hewitt> ;
+    ns1:title "Tom and Huck" .
+
+<http://example.org/movie/9> a ns1:Movie ;
+    ns1:cast <http://example.org/actor/Jean-Claude%20Van%20Damme>,
+        <http://example.org/actor/Powers%20Boothe> ;
+    ns1:crew <http://example.org/director/Peter%20Hyams> ;
+    ns1:title "Sudden Death" .
+
